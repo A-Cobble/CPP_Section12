@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "arraysAndPointers", "..\arr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pointerArithmetic", "..\pointerArithmetic\pointerArithmetic.vcxproj", "{F57DEE81-D6FE-4C3E-A760-DFA50521DAF9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "passingPointersToFunctions", "..\passingPointersToFunctions\passingPointersToFunctions.vcxproj", "{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{F57DEE81-D6FE-4C3E-A760-DFA50521DAF9}.Release|x64.Build.0 = Release|x64
 		{F57DEE81-D6FE-4C3E-A760-DFA50521DAF9}.Release|x86.ActiveCfg = Release|Win32
 		{F57DEE81-D6FE-4C3E-A760-DFA50521DAF9}.Release|x86.Build.0 = Release|Win32
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Debug|x64.ActiveCfg = Debug|x64
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Debug|x64.Build.0 = Debug|x64
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Debug|x86.Build.0 = Debug|Win32
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Release|x64.ActiveCfg = Release|x64
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Release|x64.Build.0 = Release|x64
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Release|x86.ActiveCfg = Release|Win32
+		{8D1DB2D7-B5DD-421A-9151-F29F6E0A08BA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
