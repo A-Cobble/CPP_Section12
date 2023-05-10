@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "references", "..\references
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "debugger", "..\debugger\debugger.vcxproj", "{8E46CE16-D355-4ACB-9454-95E1378BDC20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sectoin12_Challenge", "..\Sectoin12_Challenge\Sectoin12_Challenge.vcxproj", "{FF14CFDC-8797-4481-9736-4FC92B790134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{8E46CE16-D355-4ACB-9454-95E1378BDC20}.Release|x64.Build.0 = Release|x64
 		{8E46CE16-D355-4ACB-9454-95E1378BDC20}.Release|x86.ActiveCfg = Release|Win32
 		{8E46CE16-D355-4ACB-9454-95E1378BDC20}.Release|x86.Build.0 = Release|Win32
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Debug|x64.ActiveCfg = Debug|x64
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Debug|x64.Build.0 = Debug|x64
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Debug|x86.Build.0 = Debug|Win32
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Release|x64.ActiveCfg = Release|x64
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Release|x64.Build.0 = Release|x64
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Release|x86.ActiveCfg = Release|Win32
+		{FF14CFDC-8797-4481-9736-4FC92B790134}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
